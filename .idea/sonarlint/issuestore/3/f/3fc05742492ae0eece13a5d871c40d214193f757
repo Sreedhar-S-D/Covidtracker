@@ -1,0 +1,12 @@
+
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(ˆÛ¡ëùÿÿÿÿ8§ª¤¾.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û±íøÿÿÿÿ8ú‰—¾.
+c
+java:S1192."FDefine a constant instead of duplicating this literal " and " 4 times.(ıãƒã8Ôı¾.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ä¹Øş
+O
+java:S1199;"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8§ª¤¾.
+R
+java:S1128"0Remove this unused import 'javafx.stage.Window'.(Ñ€Ş‡øÿÿÿÿ8¡‘Î¼.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ä¹Øş8ÁîÌ¼.

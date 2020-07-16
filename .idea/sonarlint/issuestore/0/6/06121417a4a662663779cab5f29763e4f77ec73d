@@ -1,0 +1,22 @@
+
+Z
+java:S18541"8Remove this useless assignment to local variable "back".(¼­ËÆùÿÿÿÿ8‰Ê†.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âğıÑşÿÿÿÿ8“ë….
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(ˆÛ¡ëùÿÿÿÿ8“ë….
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÀ£8º•û….
+c
+java:S11927"FDefine a constant instead of duplicating this literal " and " 4 times.(üªï8¾öÙ‰.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(£ú±Ûÿÿÿÿÿ8èá….
+K
+java:S14811")Remove this unused "back" local variable.(¼­ËÆùÿÿÿÿ8‰Ê†.
+`
+java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ8å‡¥†.
+h
+java:S1128	"KRemove this unused import 'javafx.scene.control.cell.PropertyValueFactory'.(àÎ¬õ8È£î….
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£ú±Ûÿÿÿÿÿ
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®°üÿÿÿÿÿ8“ë….
+Z
+java:S1128"=Remove this unused import 'javafx.collections.FXCollections'.(´¶²Æ8å‡¥†.
+O
+java:S1199D"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Ğ©¯ˆ.

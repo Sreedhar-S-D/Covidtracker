@@ -1,0 +1,29 @@
+
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÛÇ¾øÿÿÿÿ8´¹Ã¾.
+T
+java:S1128
+"2Remove this unused import 'javafx.stage.Modality'.(£†üĞüÿÿÿÿ8´¹Ã¾.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À®°8´¹Ã¾.
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÇ€ò8´¹Ã¾.
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ë«Æşûÿÿÿÿ8´¹Ã¾.
+j
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(öˆ¸Ôÿÿÿÿÿ8´¹Ã¾.
+R
+java:S1128"0Remove this unused import 'javafx.geometry.Pos'.(ÌÆ÷Ùøÿÿÿÿ8´¹Ã¾.
+r	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÿİ³øÿÿÿÿ8–äÄ¾.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ˆÛ¡ëùÿÿÿÿ8—‡Í¾.
+K
+java:S2115")Add password protection to this database.(öˆ¸Ôÿÿÿÿÿ8´¹Ã¾.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡İÀ®øÿÿÿÿ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¡İÀ®øÿÿÿÿ8Àûƒ½.
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÁÓ‘8´¹Ã¾.
+m	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¥å„8…àÕ¾.
+m	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÌ8œÅ¾.
+i
+java:S2095 "GUse try-with-resources or close this "ResultSet" in a "finally" clause.(êæòİûÿÿÿÿ8´¹Ã¾.
+Z
+java:S1128"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿ8´¹Ã¾.
+R
+java:S1128"5Remove this unused import 'java.util.jar.Attributes'.(ŸÄéŸ8êÂ£½.

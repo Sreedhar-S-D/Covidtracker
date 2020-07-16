@@ -1,0 +1,16 @@
+
+i
+java:S2095@"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ë«Æşûÿÿÿÿ8¹Òˆ‡.
+j
+java:S2095?"HUse try-with-resources or close this "Connection" in a "finally" clause.(öˆ¸Ôÿÿÿÿÿ8»Ôé†.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ˆÛ¡ëùÿÿÿÿ8¹Òˆ‡.
+K
+java:S2115?")Add password protection to this database.(öˆ¸Ôÿÿÿÿÿ8¹Òˆ‡.
+i
+java:S2095D"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(êæòİûÿÿÿÿ8¹Òˆ‡.
+c
+java:S11928"FDefine a constant instead of duplicating this literal "'Yes'" 3 times.(÷ì¾ä8„àŠ‡.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸”ŞŒ8Åê†.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Í¾‹²ıÿÿÿÿ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Í¾‹²ıÿÿÿÿ8»Ôé†.

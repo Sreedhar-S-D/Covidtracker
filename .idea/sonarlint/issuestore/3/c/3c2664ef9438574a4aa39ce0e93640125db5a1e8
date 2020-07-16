@@ -1,0 +1,25 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—Ý28Üÿ‡ä’.
+W
+java:S1128"5Remove this unused import 'java.net.http.HttpClient'.(Œ³’Öþÿÿÿÿ8®Û¡ä’.
+i
+java:S1192C"GDefine a constant instead of duplicating this literal "Status" 3 times.(õÙ’„ÿÿÿÿÿ8±î¸ä’.
+b
+java:S2147j"ECombine this catch with the one at line 104, which has the same body.(ï­£Ä8Üÿ‡ä’.
+X
+java:S1128"6Remove this unused import 'java.net.http.HttpRequest'.(þ€ŠÍþÿÿÿÿ8®Û¡ä’.
+E
+java:S1148i"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Üÿ‡ä’.
+L
+java:S2093""*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Üÿ‡ä’.
+]	java:S1259"<This block of commented-out lines of code should be removed.(½æôÑýÿÿÿÿ8Üÿ‡ä’.
+R
+java:S1128"0Remove this unused import 'javafx.stage.Window'.(Ñ€Þ‡øÿÿÿÿ8÷â¿ä’.
+E
+java:S1148k"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Üÿ‡ä’.
+Y
+java:S1128"7Remove this unused import 'java.net.http.HttpResponse'.(’ûÌûÿÿÿÿ8®Û¡ä’.
+
+java:S1149!"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(—›ª¥ùÿÿÿÿ8Üÿ‡ä’.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8—åœ²“.

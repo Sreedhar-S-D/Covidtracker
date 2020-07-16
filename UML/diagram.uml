@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="1236.0">sample.userlogin</node>
+    <node x="1139.84375" y="363.0">sample.Table</node>
+    <node x="417.25" y="854.0">sample.Main</node>
+    <node x="608.0" y="120.0">sample.requesthandler</node>
+    <node x="252.0" y="466.0">sample.indiavschinesevirus</node>
+    <node x="653.5" y="363.0">sample.buymedforhosp</node>
+    <node x="240.0" y="1236.0">sample.Controller</node>
+    <node x="286.0" y="677.0">sample.check_current</node>
+    <node x="731.0" y="520.0">sample.doccheck</node>
+    <node x="837.84375" y="363.0">sample.seepatients</node>
+    <node x="404.5" y="363.0">sample.check_the_person</node>
+    <node x="136.0" y="709.0">sample.NumException</node>
+    <node x="1371.84375" y="211.0">sample.doctor</node>
+    <node x="0.0" y="709.0">sample.AlertBox</node>
+    <node x="379.0" y="120.0">sample.gotocheck</node>
+    <node x="988.84375" y="363.0">sample.seedp</node>
+    <node x="1348.34375" y="0.0">sample.hospital</node>
+    <node x="745.0" y="709.0">sample.doctorlogin</node>
+    <node x="521.0" y="688.0">sample.confirmBox</node>
+    <node x="928.11125" y="0.0">sample.user</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="sample.buymedforhosp" target="sample.requesthandler">
+      <point x="0.0" y="-26.5" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="sample.check_current" target="sample.indiavschinesevirus">
+      <point x="53.75" y="-58.5" />
+      <point x="447.25" y="652.0" />
+      <point x="464.25" y="652.0" />
+      <point x="70.75" y="80.5" />
+    </edge>
+    <edge source="sample.Main" target="sample.confirmBox">
+      <point x="-37.1875" y="-168.5" />
+      <point x="677.5625" y="834.0" />
+      <point x="623.0" y="834.0" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="sample.doctor" target="sample.hospital">
+      <point x="0.0" y="-48.5" />
+      <point x="0.0" y="80.5" />
+    </edge>
+    <edge source="sample.Table" target="sample.user">
+      <point x="0.0" y="-26.5" />
+      <point x="1197.84375" y="343.0" />
+      <point x="1125.54875" y="343.0" />
+      <point x="21.9375" y="146.5" />
+    </edge>
+    <edge source="sample.Main" target="sample.user">
+      <point x="111.5625" y="-168.5" />
+      <point x="826.3125" y="814.0" />
+      <point x="1266.34375" y="814.0" />
+      <point x="1266.34375" y="333.0" />
+      <point x="1169.42375" y="333.0" />
+      <point x="65.81250000000003" y="146.5" />
+    </edge>
+    <edge source="sample.doccheck" target="sample.seedp">
+      <point x="56.625" y="-26.5" />
+      <point x="863.125" y="446.0" />
+      <point x="1054.34375" y="446.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="sample.Main" target="sample.doctorlogin">
+      <point x="37.1875" y="-168.5" />
+      <point x="751.9375" y="834.0" />
+      <point x="806.5" y="834.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="sample.doctorlogin" target="sample.doccheck">
+      <point x="0.0" y="-26.5" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="sample.doccheck" target="sample.buymedforhosp">
+      <point x="-18.875" y="-26.5" />
+      <point x="787.625" y="436.0" />
+      <point x="727.0" y="436.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="sample.Main" target="sample.NumException">
+      <point x="-185.9375" y="-168.5" />
+      <point x="528.8125" y="824.0" />
+      <point x="201.0" y="824.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="sample.check_the_person" target="sample.gotocheck">
+      <point x="0.0" y="-26.5" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="sample.seedp" target="sample.user">
+      <point x="-32.75" y="-26.5" />
+      <point x="1021.59375" y="343.0" />
+      <point x="1037.79875" y="343.0" />
+      <point x="-65.8125" y="146.5" />
+    </edge>
+    <edge source="sample.Main" target="sample.check_current">
+      <point x="-111.5625" y="-168.5" />
+      <point x="603.1875" y="814.0" />
+      <point x="393.5" y="814.0" />
+      <point x="0.0" y="58.5" />
+    </edge>
+    <edge source="sample.seepatients" target="sample.user">
+      <point x="32.75" y="-26.5" />
+      <point x="936.09375" y="343.0" />
+      <point x="993.92375" y="343.0" />
+      <point x="-109.6875" y="146.5" />
+    </edge>
+    <edge source="sample.doccheck" target="sample.check_the_person">
+      <point x="-56.625" y="-26.5" />
+      <point x="749.875" y="446.0" />
+      <point x="483.5" y="446.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="sample.Main" target="sample.AlertBox">
+      <point x="-260.3125" y="-168.5" />
+      <point x="454.4375" y="834.0" />
+      <point x="58.0" y="834.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="sample.doccheck" target="sample.seepatients">
+      <point x="18.875" y="-26.5" />
+      <point x="825.375" y="436.0" />
+      <point x="903.34375" y="436.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="479.5" y="227.0" />
+  <SelectedNodes>
+    <node>sample.userlogin</node>
+    <node>sample.Table</node>
+    <node>sample.Main</node>
+    <node>sample.requesthandler</node>
+    <node>sample.indiavschinesevirus</node>
+    <node>sample.buymedforhosp</node>
+    <node>sample.Controller</node>
+    <node>sample.check_current</node>
+    <node>sample.doccheck</node>
+    <node>sample.seepatients</node>
+    <node>sample.check_the_person</node>
+    <node>sample.NumException</node>
+    <node>sample.doctor</node>
+    <node>sample.AlertBox</node>
+    <node>sample.gotocheck</node>
+    <node>sample.seedp</node>
+    <node>sample.hospital</node>
+    <node>sample.doctorlogin</node>
+    <node>sample.confirmBox</node>
+    <node>sample.user</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,7 @@
+
+\
+java:S1118	":Add a private constructor to hide the implicit public one.(Î¢„¼øÿÿÿÿ8Ôû²†.
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î¢„¼øÿÿÿÿ
+Y
+java:S1128"7Remove this unused import 'javafx.scene.control.Label'.(ö²­ÿÿÿÿÿ8ÿÊ½†.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÚÂ¤øÿÿÿÿ8ÜèÛ†.

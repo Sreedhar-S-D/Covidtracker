@@ -1,0 +1,47 @@
+
+M
+java:S1128	"0Remove this unused import 'javafx.scene.Parent'.(²ä¡È8ÛÇÕì.
+J
+java:S1602…",Remove useless curly braces around statement(¤‹·µ8­†à‡.
+U
+java:S1128"3Remove this unused import 'javafx.fxml.FXMLLoader'.(À‡ô³úÿÿÿÿ8ÛÇÕì.
+j
+java:S2095ñ"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ë«Æşûÿÿÿÿ8Ÿ£Ş….
+L
+java:S2115ï")Add password protection to this database.(öˆ¸Ôÿÿÿÿÿ8Ÿ£Ş….
+„
+java:S1192"aDefine a constant instead of duplicating this literal "jdbc:sqlite:C:\\a_hosp\\hello.db" 3 times.(öˆ¸Ôÿÿÿÿÿ8í¼®“.
+A
+java:S1659"$Declare "scene4" on a separate line.(¸›ªî8­†à‡.
+ˆ
+java:S1192ƒ"eDefine a constant instead of duplicating this literal "CREATE TABLE IF NOT EXISTS upofthis " 3 times.(¹î†üÿÿÿÿ8•¼¥ğ.
+[	java:S106ú"9Replace this use of System.out or System.err by a logger.(ù„î®şÿÿÿÿ8Ÿ£Ş….
+r	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆõèùÿÿÿÿ8¯¾ìï.
+[	java:S106Å"9Replace this use of System.out or System.err by a logger.(ˆÛ¡ëùÿÿÿÿ8Ÿ£Ş….
+A
+java:S1659"$Declare "scene3" on a separate line.(¸›ªî8­†à‡.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÄÌæO8Ÿ£Ş….
+^	java:S125£"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ÿ£Ş….
+A
+java:S1659"$Declare "scene5" on a separate line.(¸›ªî8­†à‡.
+^	java:S125–"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Ÿ£Ş….
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®°üÿÿÿÿÿ8¯¾ìï.
+^	java:S125"<This block of commented-out lines of code should be removed.(¬‘–€øÿÿÿÿ8Ÿ£Ş….
+X	java:S125”"<This block of commented-out lines of code should be removed.(òğı$8Ÿ£Ş….
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(››¥Öøÿÿÿÿ8Ÿ£Ş….
+G
+java:S1659"*Declare "makingofuser" on a separate line.(¸›ªî8«Áÿë.
+k
+java:S2095ï"HUse try-with-resources or close this "Connection" in a "finally" clause.(öˆ¸Ôÿÿÿÿÿ8Ÿ£Ş….
+Y	java:S107æ"<Method has 8 parameters, which is greater than 7 authorized.(æèü˜8Ÿ£Ş….
+A
+java:S1659"$Declare "scene2" on a separate line.(¸›ªî8­†à‡.
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8‹Å±.
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(ˆÛ¡ëùÿÿÿÿ8•¼¥ğ.
+X
+java:S1141î"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ÿ£Ş….
+C
+java:S1659"&Declare "doclogin" on a separate line.(¸›ªî8”áÑ….
+W
+java:S1128"5Remove this unused import 'javafx.event.ActionEvent'.(î•¯¼ıÿÿÿÿ8½ˆüì.

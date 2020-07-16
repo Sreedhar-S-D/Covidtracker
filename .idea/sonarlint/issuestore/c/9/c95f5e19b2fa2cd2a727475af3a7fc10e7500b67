@@ -1,0 +1,40 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÓŞîüÿÿÿÿ8Ë’¹”.
+O
+java:S1481	"-Remove this unused "newmasks" local variable.(ŒôÊéùÿÿÿÿ8ñ§û».
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÛ¡ëùÿÿÿÿ8Ë’¹”.
+K
+java:S1481"/Remove this unused "paracetmol" local variable.(èÂs8ñ§û».
+_
+java:S1854
+"=Remove this useless assignment to local variable "newchloro".(éÈ™˜úÿÿÿÿ8ñ§û».
+K
+java:S2115")Add password protection to this database.(öˆ¸Ôÿÿÿÿÿ8Ë’¹”.
+G
+java:S1481"+Remove this unused "chloro" local variable.(èÂs8ñ§û».
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Àù	8Ë’¹”.
+]
+java:S1854";Remove this useless assignment to local variable "newpara".(°ëŸÇşÿÿÿÿ8ñ§û».
+V
+java:S1118":Add a private constructor to hide the implicit public one.(Àù	8Ë’¹”.
+D
+java:S1659"(Declare "paracetmol" on a separate line.(èÂs8ñ§û».
+M
+java:S1481"+Remove this unused "query1" local variable.(‰Ú¤ıúÿÿÿÿ8Ë’¹”.
+N
+java:S1481",Remove this unused "newpara" local variable.(°ëŸÇşÿÿÿÿ8ñ§û».
+F
+java:S1481"*Remove this unused "masks" local variable.(èÂs8ñ§û».
+\
+java:S1854":Remove this useless assignment to local variable "query1".(‰Ú¤ıúÿÿÿÿ8Ë’¹”.
+^
+java:S1854	"<Remove this useless assignment to local variable "newmasks".(ŒôÊéùÿÿÿÿ8ñ§û».
+@
+java:S1659"$Declare "chloro" on a separate line.(èÂs8ñ§û».
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ë«Æşûÿÿÿÿ8Ë’¹”.
+P
+java:S1481
+".Remove this unused "newchloro" local variable.(éÈ™˜úÿÿÿÿ8ñ§û».
+j
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(öˆ¸Ôÿÿÿÿÿ8Ë’¹”.

@@ -1,0 +1,9 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û±íøÿÿÿÿ8ó­ò.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àô¿ üÿÿÿÿ
+X
+java:S1128";Remove this unused import 'javafx.scene.layout.AnchorPane'.(Ø µ8˜“‹.
+t
+java:S1192"WDefine a constant instead of duplicating this literal "only an integer please" 3 times.(Ã³Á©8½Ë—.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(àô¿ üÿÿÿÿ8Şš´Œ.

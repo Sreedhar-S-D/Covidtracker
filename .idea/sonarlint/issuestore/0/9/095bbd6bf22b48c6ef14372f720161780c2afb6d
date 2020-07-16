@@ -1,0 +1,8 @@
+
+q	java:S116"URename this field "Nearbyhosp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªã¬Ô8¸õÔè.
+t	java:S116"SRename this field "Bloodgrp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥áíÇúÿÿÿÿ8™ºÔì.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Şš†¾ûÿÿÿÿ8™ºÔì.
+]	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(Å×ï£8ı«ƒí.
+p	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­Áøÿÿÿÿ8™ºÔì.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å×ï£8ı«ƒí.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ú‰Š8»÷í.
